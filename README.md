@@ -16,3 +16,4 @@ https://github.com/leodesigner/esp_mesh_gw_node
 should be connected via usb to the host running these scripts.
 
 
+Mesh node example: https://github.com/leodesigner/esp_mesh_pir_sensor

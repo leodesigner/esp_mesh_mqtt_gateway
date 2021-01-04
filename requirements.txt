@@ -1,2 +1,5 @@
+decorator==4.4.2
+networkx==2.5
 paho-mqtt==1.5.0
+pyserial==3.4
 python-periphery==2.1.0

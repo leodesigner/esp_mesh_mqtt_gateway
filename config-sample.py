@@ -25,3 +25,6 @@ mqtt_to_mesh_prefix = 'mesh-/'
 # MQTT broker
 mqtt_host = 'mqtt.local'
 mqtt_port = 1883
+
+# exclude node names (do not process stats for them)
+nodes_exclude = ['xiaomi']

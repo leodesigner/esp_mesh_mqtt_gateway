@@ -1,6 +1,7 @@
 __pycache__/
 venv/
 old/
+stats/
 
 config.py
 mac_names.csv
